@@ -1,0 +1,7 @@
+:root {
+    --principal: red 
+    }
+
+    h1 {
+        color: var(--principal)
+    }
